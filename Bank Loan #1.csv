@@ -1,0 +1,25 @@
+Loan ID,Customer ID, Current Loan Amount ,Term,Credit Score,Home Ownership
+14dd8831-6af5-400b-83ec-68e61888a048,981165ec-3274-42f5-a3b4-d104041a9ca9," $445,412.00 ",Short Term,709,Home Mortgage
+4771cc26-131a-45db-b5aa-537ea4ba5342,2de017a3-2e01-49cb-a581-08169e83be29," $262,328.00 ",Short Term,,Home Mortgage
+4eed4e6a-aa2f-4c91-8651-ce984ee8fb26,5efb2b2b-bf11-4dfd-a572-3761a2694725," $99,999,999.00 ",Short Term,741,Own Home
+77598f7b-32e7-4e3b-a6e5-06ba0d98fe8a,e777faab-98ae-45af-9a86-7ce5b33b1011," $347,666.00 ",Long Term,721,Own Home
+d4062e70-befa-4995-8643-a0de73938182,81536ad9-5ccf-4eb8-befb-47a4d608658e," $176,220.00 ",Short Term,,Rent
+89d8cb0c-e5c2-4f54-b056-48a645c543dd,4ffe99d3-7f2a-44db-afc1-40943f1f9750," $206,602.00 ",Short Term,7290,Home Mortgage
+273581de-85d8-4332-81a5-19b04ce68666,90a75dde-34d5-419c-90dc-1e58b04b3e35," $217,646.00 ",Short Term,730,Home Mortgage
+db0dc6e1-77ee-4826-acca-772f9039e1c7,018973c9-e316-4956-b363-67e134fb0931," $648,714.00 ",Long Term,,Home Mortgage
+8af915d9-9e91-44a0-b5a2-564a45c12089,af534dea-d27e-4fd6-9de8-efaa52a78ec0," $548,746.00 ",Short Term,678,Rent
+0b1c4e3d-bd97-45ce-9622-22732fcdc9a0,235c4a43-dadf-483d-aa44-9d6d77ae4583," $215,952.00 ",Short Term,739,Rent
+32c2e48f-1ba8-45e0-a530-9a6622c18d9c,0de7bcdb-ebf4-4608-ba39-05f083f855b6," $99,999,999.00 ",Short Term,728,Rent
+fa096848-6143-4907-b2cf-852a0b06171c,aa0a6a22-a95e-48e0-ba4f-b83456d424e4," $541,970.00 ",Short Term,,Home Mortgage
+403d7235-0284-4bb6-919a-09402fecbf7b,11581f68-de3c-49d8-80d9-22268ebb323b," $99,999,999.00 ",Short Term,740,Own Home
+01d878ae-efa2-41e2-8159-6c834ff09f47,900c9191-2c20-4688-af7e-07c59b5d5a24," $99,999,999.00 ",Short Term,743,Rent
+2e841c8f-3dc1-464d-91c1-3d3d51e64c38,2ac05980-7848-4692-89ae-9321afe650f8," $234,124.00 ",Short Term,727,Rent
+7cbaa3fa-16fd-4343-9bcb-e90b34a1072f,3ec886e7-f15d-4c35-83d0-bdec4817ae4b," $449,020.00 ",Long Term,,Own Home
+c9a16a9d-8801-4430-b445-dbf9cf845e31,abb4c446-08ea-49ff-aeb8-5e1e9da673e7," $653,004.00 ",Long Term,,Home Mortgage
+24e8c8bd-d10b-4dac-8b81-1da470ff5ecb,967e8733-7189-49b7-a3ab-6a1d0e1abdac," $666,204.00 ",Long Term,723,Home Mortgage
+c6be21f0-80b1-46b3-8019-16646fd2137d,c67b2cb5-9f91-4bcb-9a03-03d1589c6c1a," $66,396.00 ",Short Term,,Rent
+41f7dd8d-bfdd-43de-859a-2ce215aa4c07,422f9b72-5041-407c-8ac4-982213deacd1," $390,390.00 ",Short Term,747,Home Mortgage
+150ebbad-ebed-441e-b70d-2f350ad7dca6,40f729c9-54c7-4768-9fb5-2fa41d074c48," $317,108.00 ",Long Term,687,Rent
+31ae42f6-7e92-46bf-97e9-fa25499162ba,016c5139-4da2-44ba-a0a6-7b23597526a8," $128,238.00 ",Short Term,750,Rent
+c7e2b784-016b-4fc4-8fde-623f09126557,5b53e176-8fc7-48bf-9d78-ceb5aa284f36," $153,252.00 ",Short Term,714,Rent
+14c61ec2-6349-4d01-ba85-2daebfbf85d6,eb166545-76e5-43ae-8c64-3fe5ebb9c729," $91,894.00 ",Short Term,724,Home Mortgage
